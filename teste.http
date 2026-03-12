@@ -1,0 +1,8 @@
+POST http://127.0.0.1:5000/calcular
+Content-Type: application/json
+
+{
+ "a": 10,
+ "b": 0,
+ "operacao": "divisao"
+}
