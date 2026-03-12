@@ -8,7 +8,7 @@ A aplicação recebe dois números e uma operação (soma, subtração, multipli
 A API foi desenvolvida utilizando Flask.
 Além da API, foi criada uma interface simples utilizando Streamlit para permitir que o usuário realize os cálculos de forma visual, através do navegador.
 
-O objetivo do projeto é demonstrar a criação rápida de uma API e sua integração com uma interface simples, seguindo a proposta da disciplina de Desenvolvimento Rápido de Aplicações em Python.
+Disciplina: Desenvolvimento Rápido de Aplicações em Python.
 
 ---
 
